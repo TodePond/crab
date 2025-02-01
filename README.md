@@ -10,17 +10,17 @@
 
 ## Act 1
 
-- Part 1, 20 seconds: Fire, Earth, Water
-- Part 2, 20 seconds: Life
-- Part 3, 48 seconds: Photosynthesis
-- Part 4, 28 seconds: Atmosphere
-- Part 5, 30 seconds: Multicellular
-- Part 6, 4 seconds: Plants
-- Part 7, 9 seconds: Animals
-- Part 8, 7 seconds: Explosion
-- Part 9, 3 seconds: Amphibians
-- Part 10, 9 seconds: Dinosaurs
-- Part 11, 2 seconds: Everything else
+- Scene 1, 20 seconds: Fire, Earth, Water
+- Scene 2, 20 seconds: Life
+- Scene 3, 48 seconds: Photosynthesis
+- Scene 4, 28 seconds: Atmosphere
+- Scene 5, 30 seconds: Multicellular
+- Scene 6, 4 seconds: Plants
+- Scene 7, 9 seconds: Animals
+- Scene 8, 7 seconds: Explosion
+- Scene 9, 3 seconds: Amphibians
+- Scene 10, 9 seconds: Dinosaurs
+- Scene 11, 2 seconds: Everything else
 
 ## Act 2
 

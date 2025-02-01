@@ -1,14 +1,14 @@
 
 ## Overview
 
-- Section 1: Beeps
+- Act 1: Beeps
   - 181.6 seconds (3 minutes and 1.6 seconds) 
-- Section 2: Derail
+- Act 2: Derail
   - Roughly 60 - 90 seconds (between 1 minute 1 and a half minutes)
  
 **Total duration: approx 4 minutes 15 seconds**
 
-## Section 1
+## Act 1
 
 - Part 1, 20 seconds: Fire, Earth, Water
 - Part 2, 20 seconds: Life
@@ -22,7 +22,7 @@
 - Part 10, 9 seconds: Dinosaurs
 - Part 11, 2 seconds: Everything else
 
-## Section 2
+## Act 2
 
 - Part 1: Interruption
 - Part 2: Retry

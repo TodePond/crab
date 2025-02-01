@@ -8,7 +8,21 @@
  
 **Total duration: approx 4 minutes 15 seconds**
 
-Section 2 has two parts.
+## Section 1
+
+- Part 1, 20 seconds: Fire, Earth, Water
+- Part 2, 20 seconds: Life
+- Part 3, 48 seconds: Photosynthesis
+- Part 4, 28 seconds: Atmosphere
+- Part 5, 30 seconds: Multicellular
+- Part 6, 4 seconds: Plants
+- Part 7, 9 seconds: Animals
+- Part 8, 7 seconds: Explosion
+- Part 9, 3 seconds: Amphibians
+- Part 10, 9 seconds: Dinosaurs
+- Part 11, 2 seconds: Everything else
+
+## Section 2
 
 - Part 1: Interruption
 - Part 2: Retry
